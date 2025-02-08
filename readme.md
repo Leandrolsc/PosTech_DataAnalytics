@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TECH CHALLENGE - FASE 2 - Time Series
 
 ## Introdução
@@ -105,3 +106,6 @@ https://mariofilho.com/como-criar-um-modelo-simples-para-prever-series-temporais
 https://mariofilho.com/mape-erro-absoluto-percentual-medio-em-machine-learning/
 
 https://mariofilho.com/mae-erro-medio-absoluto-em-machine-learning/
+=======
+# Organizando...
+>>>>>>> organizacao
