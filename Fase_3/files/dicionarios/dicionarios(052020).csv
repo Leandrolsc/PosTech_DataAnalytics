@@ -1,0 +1,115 @@
+codigo;numero;descricao
+UF;;Unidade da Federação
+CAPITAL;;Capital
+RM_RIDE;;"Região Metropolitana e Região Administrativa Integrada
+de Desenvolvimento"
+V1008;;Número de seleção do domicílio
+V1012;;Semana no mês
+V1013;;Mês da pesquisa
+V1016;;Número da entrevista no domicílio
+Estrato;;Estrato
+UPA;;UPA
+V1022;;Situação do domicílio
+V1023;;Tipo de área
+V1030;;Projeção da população
+V1031;;Peso do domicílio e das pessoas
+V1032;;Peso do domicílio e das pessoas
+posest;;Domínios de projeção
+A001;A1;Número de ordem
+A001A;A1a;Condição no domicílio
+A001B1;A1b;Dia de nascimento
+A001B2;A1b;Mês de nascimento
+A001B3;A1b;Ano de nascimento
+A002;A2;Idade do morador 
+A003;A3;Sexo
+A004;A4;Cor ou raça
+A005;A5;Escolaridade
+B0011;B1;Na semana passada teve febre?
+B0012;B1;Na semana passada teve tosse?
+B0013;B1;Na semana passada teve dor de garganta?
+B0014;B1;Na semana passada teve dificuldade para respirar?
+B0015;B1;Na semana passada teve dor de cabeça?
+B0016;B1;Na semana passada teve dor no peito?
+B0017;B1;Na semana passada teve náusea?
+B0018;B1;Na semana passada teve nariz entupido ou escorrendo?
+B0019;B1;Na semana passada teve fadiga?
+B00110;B1;Na semana passada teve dor nos olhos?
+B00111;B1;Na semana passada teve perda de cheiro ou sabor?
+B00112;B1;Na semana passada teve dor muscular?
+B002;B2;Por causa disso, foi a algum estabelecimento de saúde?
+B0031;B3;Providência tomada para recuperar dos sintomas foi ficar em casa
+B0032;B3;Providência tomada para recuperar dos sintomas foi ligar para algum profissional de saúde
+B0033;B3;Providência tomada  para recuperar dos sintomas foi comprar e/ou tomar  remédio por conta própria
+B0034;B3;Providência tomada para recuperar dos sintomas foi comprar e/ou tomar remédio por orientação médica
+B0035;B3;Providência tomada para recuperar dos sintomas foi receber visita de algum profissional de saúde do SUS (equipe de saúde da família, agente comunitário, etc.)
+B0036;B3;Providência tomada para recuperar dos sintomas foi receber visita de profissional de saúde particular 
+B0037;B3;Providência tomada para recuperar dos sintomas foi outra
+B0041;B4;Local que buscou atendimento foi posto de saúde/Unidade básica de saúde /Equipe de Saúde da Família (médico, enfermeiro, técnico de enfermagem ou agente comunitário de saúde)
+B0042;B4;Local que buscou atendimento foi pronto socorro do SUS/UPA
+B0043;B4;Local que buscou atendimento foi hospital do SUS
+B0044;B4;Local que buscou atendimento foi ambulatório ou consultório privado ou ligado às forças armadas
+B0045;B4;Local que buscou atendimento foi pronto socorro privado ou ligado às forças armadas
+B0046;B4;Local que buscou atendimento foi hospital privado ou ligado às forças armadas
+B005;B5;Ao procurar o hospital, teve que ficar internado por um dia ou mais
+B006;B6;Durante a internação, foi sedado, entubado e colocado em respiração artificial com ventilador
+B007;B7;Tem algum plano de saúde médico, seja particular, de empresa ou de órgão público
+C001;C1;Na semana passada, por pelo menos uma hora, trabalhou ou fez algum bico?
+C002;C2;Na semana passada, estava temporariamente afastado de algum trabalho?
+C003;C3;Qual o principal motivo deste afastamento temporário?
+C004;C4;Continuou a ser remunerado (mesmo que parcialmente) por esse trabalho
+C005;C5;Há quanto tempo está afastado desse trabalho?
+C0051;C5; tempo que estava afastado (De 1 mês a menos de 1 ano) 
+C0052;C5;tempo que estava afastado (De 1 ano a menos de 2 anos) 
+C0053;C5;tempo que estava afastado (de 02 anos a 98 anos) 
+C006;C6;Tem mais de um trabalho
+C007;C7;No trabalho (único ou principal) que tinha nessa semana, era:
+C007A;C7a;Esse trabalho era na área:
+C007B;C7b;Tem carteira de trabalho assinada ou é funcionário público estatutário?
+C007C;C7c;Que tipo de trabalho, cargo ou função você realiza no seu trabalho (único ou principal)? 
+C007D;C7d;Qual é a principal atividade do local ou empresa em que você trabalha? 
+C007E;C7e;Na semana passada, quantos empregados trabalhavam nesse negócio/empresa que ... tinha ?
+C007E1;C7e;1 a 5 empregados
+C007E2;C7e;6 a 10 empregados
+C008;C8;Quantas horas, por semana, normalmente trabalhava?
+C009;C9;Quantas horas, na semana passada, de fato trabalhou?
+C010;C10;Quanto recebia (ou retirava) normalmente em todos os seus trabalhos
+C0101;C10;Recebia/retirava normalmente em dinheiro
+C01011;C10;Número da faixa do rendimento/retirada em dinheiro
+C01012;C10;Valor em dinheiro
+C0102;C10;Recebia normalmente em produtos e mercadorias
+C01021;C10;Número da faixa do rendimento/retirada em produtos e mercadorias
+C01022;C10;Valor em produtos e mercadorias
+C0103;C10;Recebia normalmente somente em benefícios
+C0104;C10;Era não remunerado
+C011A;C11A;Quanto recebia (ou retirava) efetivamente em todos os seus trabalhos
+C011A1;C11A;Recebia/retirava efetivamente em dinheiro
+C011A11;C11A;Número da faixa do rendimento/retirada em dinheiro
+C011A12;C11A;Valor em dinheiro
+C011A2;C11A;Recebia efetivamente em produtos e mercadorias
+C011A21;C11A;Número da faixa do rendimento/retirada em produtos e mercadorias
+C011A22;C11A;Valor em produtos e mercadorias
+C012;C12;Na maior parte do tempo, na semana passada, esse trabalho (único ou principal) foi exercido no mesmo local em que costuma trabalhar? 
+C013;C13;Na semana passada, o(a) Sr(a) estava em trabalho remoto (home office ou teletrabalho)?
+C014;C14;O(A) Sr(a) contribui para o INSS?  
+C015;C15;Na semana passada ___ tomou alguma providência efetiva para conseguir trabalho?  
+C016;C16;Qual o principal motivo de não ter procurado trabalho na semana passada? 
+C017A;C17a;Embora você não tenha procurado trabalho, gostaria de ter trabalhado na semana passada?
+D0011;D1;Rendimento recebido de aposentadoria e pensão por todos os moradores
+D0013;D1;Somatório dos valores recebidos
+D0021;D1;Rendimento de pensão alimentícia, doação ou mesada em dinheiro de pessoa que não morava no domicílio
+D0023;D1;Somatório dos valores recebidos
+D0031;D1;Rendimentos de Programa Bolsa Família
+D0033;D1;Somatório dos valores recebidos
+D0041;D1; No mês de ... (mês de referência), ... recebeu rendimentos de Benefício Assistencial de Prestação Continuada – BPC-LOAS?
+D0043;D1;Somatório dos valores recebidos
+D0051;D1;Auxílios emergenciais relacionados ao coronavirus
+D0053;D1;Somatório dos valores recebidos
+D0061;D1;Seguro desemprego
+D0063;D1;Somatório dos valores recebidos
+D0071;D1;Outros rendimentos, como aluguel, arrendamento, previdência privada, bolsa de estudos, rendimentos de aplicação financeira etc.
+D0073;D1;Somatório dos valores recebidos
+F001;F1;Este domicílio é: 
+F0021;F2;Qual foi o valor mensal do aluguel pago, ou que deveria ter sido pago, no mês de referência?
+F0022;F2;Número da faixa do aluguel pago
+F0061;F61;Quem respondeu ao questionário?
+F006;F6;Número de ordem do morador que prestou as informações
